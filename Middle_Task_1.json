@@ -1,0 +1,297 @@
+[
+	{
+		"name": "Последний богатырь: Корень зла",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1249172/",
+		"film_rating": "6.91",
+		"votes": "216 917",
+		"date": "2022-04-14",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фэнтези",
+			" приключения",
+			" комедия",
+			" семейный"
+		]
+	},
+	{
+		"name": "Последний богатырь",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/976642/",
+		"film_rating": "6.95",
+		"votes": "296 807",
+		"date": "2022-04-14",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"комедия",
+			" фэнтези",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Последний богатырь: Посланник Тьмы",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1272246/",
+		"film_rating": "6.65",
+		"votes": "111 383",
+		"date": "2022-04-14",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"приключения",
+			" комедия",
+			" фэнтези"
+		]
+	},
+	{
+		"name": "Вне закона",
+		"name_eng": "Down by Law ",
+		"film_link": "https://www.kinopoisk.ru/film/13852/",
+		"film_rating": "7.85",
+		"votes": "13 464",
+		"date": "2022-04-14",
+		"company": "Иноекино",
+		"genresk": [
+			"драма",
+			" комедия",
+			" криминал"
+		]
+	},
+	{
+		"name": "Чудеса",
+		"name_eng": "Le meraviglie ",
+		"film_link": "https://www.kinopoisk.ru/film/780468/",
+		"film_rating": "6.59",
+		"votes": "3 192",
+		"date": "2022-04-14",
+		"company": "ПилотКино",
+		"genresk": [
+			"мелодрама"
+		]
+	},
+	{
+		"name": "Красавица и дракон",
+		"name_eng": "Ryu to Sobakasu no Hime ",
+		"film_link": "https://www.kinopoisk.ru/film/2043233/",
+		"film_rating": "7.27",
+		"votes": "4 293",
+		"date": "2022-04-14",
+		"company": "Экспонента",
+		"genresk": [
+			"аниме",
+			" мультфильм",
+			" фантастика",
+			" драма",
+			" музыка"
+		]
+	},
+	{
+		"name": "Стражи терракоты",
+		"name_eng": "Yong zhi cheng ",
+		"film_link": "https://www.kinopoisk.ru/film/4445709/",
+		"film_rating": "6.61",
+		"votes": "469",
+		"date": "2022-04-14",
+		"company": "Magic Film Company",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" боевик"
+		]
+	},
+	{
+		"name": "Обратимая реальность",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1354764/",
+		"wait_rating": "87%",
+		"votes": "1174",
+		"date": "2022-04-14",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фантастика",
+			" триллер"
+		]
+	},
+	{
+		"name": "Пласт",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1390671/",
+		"film_rating": "5.84",
+		"votes": "903",
+		"date": "2022-04-14",
+		"company": "Планета Информ",
+		"genresk": [
+			"драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Дьяволик",
+		"name_eng": "Diabolik ",
+		"film_link": "https://www.kinopoisk.ru/film/1220209/",
+		"film_rating": "5.86",
+		"votes": "275",
+		"date": "2022-04-14",
+		"company": "Русский Репортаж",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал",
+			" детектив"
+		]
+	},
+	{
+		"name": "Подельники",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4324950/",
+		"film_rating": "—",
+		"votes": "156",
+		"date": "2022-04-14",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" триллер"
+		]
+	},
+	{
+		"name": "Жена художника",
+		"name_eng": "The Artist's Wife ",
+		"film_link": "https://www.kinopoisk.ru/film/1121828/",
+		"film_rating": "—",
+		"votes": "44",
+		"date": "2022-04-14",
+		"company": "Кинологистика",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Близнец",
+		"name_eng": "The Twin ",
+		"film_link": "https://www.kinopoisk.ru/film/4422727/",
+		"film_rating": "—",
+		"votes": "118",
+		"date": "2022-04-14",
+		"company": "Наше Кино",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Закат",
+		"name_eng": "Sundown ",
+		"film_link": "https://www.kinopoisk.ru/film/4536578/",
+		"film_rating": "6.53",
+		"votes": "238",
+		"date": "2022-04-14",
+		"company": "Capella Film",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Золотые прииски Колара: Глава 2",
+		"name_eng": "K.G.F: Chapter 2 ",
+		"film_link": "https://www.kinopoisk.ru/film/1289764/",
+		"wait_rating": "—",
+		"votes": "290",
+		"date": "2022-04-14",
+		"company": "Indian Films",
+		"genresk": [
+			"боевик",
+			" драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Альпийские приключения",
+		"name_eng": "Schellen-Ursli ",
+		"film_link": "https://www.kinopoisk.ru/film/917795/",
+		"film_rating": "—",
+		"votes": "62",
+		"date": "2022-04-14",
+		"company": "Пионер",
+		"genresk": [
+			"драма",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Добро пожаловать в семью",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4317395/",
+		"film_rating": "—",
+		"votes": "109",
+		"date": "2022-04-14",
+		"company": "Arna Media",
+		"genresk": [
+			"комедия",
+			" криминал",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Возвращение с фронта",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1269598/",
+		"film_rating": "—",
+		"votes": "433",
+		"date": "2022-04-14",
+		"company": "Reflexion Films",
+		"genresk": [
+			"военный",
+			" драма"
+		]
+	},
+	{
+		"name": "9 жизней",
+		"name_eng": "Nine Bullets ",
+		"film_link": "https://www.kinopoisk.ru/film/4308936/",
+		"film_rating": "—",
+		"votes": "51",
+		"date": "2022-04-14",
+		"company": "MDfilm",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Родители строгого режима",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4907342/",
+		"film_rating": "—",
+		"votes": "53",
+		"date": "2022-04-14",
+		"company": "МВК",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Я иду искать",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4903616/",
+		"film_rating": "—",
+		"votes": "11",
+		"date": "2022-04-14",
+		"company": "Самокат",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Зверь",
+		"name_eng": "Beast ",
+		"film_link": "https://www.kinopoisk.ru/film/1349639/",
+		"film_rating": "—",
+		"votes": "7",
+		"date": "2022-04-13",
+		"company": "Indian Films",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал"
+		]
+	}
+]
